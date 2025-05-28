@@ -1,0 +1,147 @@
+/* Custom CSS for event dot */
+.event-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  background-color: red; /* Change color as needed */
+  border-radius: 50%; /* Create a circular dot */
+  margin-left: 3px; /* Adjust spacing from the day number */
+}
+
+/* Style for the calendar tab container */
+#calendar-tab {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add box shadow */
+}
+
+/* Style for the calendar table */
+#calendar-body {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#calendar-body th,
+#calendar-body td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+#calendar-body th {
+  background-color: #f0f0f0;
+}
+
+#calendar-body td {
+  cursor: pointer;
+}
+
+/* Style for the selected calendar date */
+.selected-date {
+  background-color: #007bff;
+  color: #fff;
+  font-weight: bold;
+}
+
+/* Style for the days of the calendar */
+.calendar-day {
+  position: relative;
+  height: 80px;
+}
+
+.calendar-day:hover {
+  background-color: #f9f9f9;
+}
+
+/* Style for the day number in the calendar */
+.calendar-day-number {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Style for the calendar header */
+#month-year {
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Style for the navigation buttons */
+#prev-month-button,
+#next-month-button {
+  font-size: 14px;
+}
+
+/* Style for the agenda tab */
+#agenda-tab, #upcoming-tab {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the agenda list */
+#agenda-list, #upcoming-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Style for agenda list items */
+#agenda-list li, #upcoming-list li {
+  margin-bottom: 8px;
+  padding: 8px;
+  background-color: #fff;
+  border-radius: 3px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#add-event-button {
+  display: none; /* Initially hide "Add Event" button */
+  margin-top: 10px;
+  padding: 6px 12px; /* Adjust padding to make button smaller */
+  font-size: 14px; /* Adjust font size */
+  background-color: #007bff; /* Blue color */
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center; /* Center button horizontally */
+  align-items: center; /* Center button vertically */
+}
+
+#add-event-button:hover {
+  background-color: #0056b3; /* Darker blue color on hover */
+}
+
+/* Style for agenda list items */
+#agenda-list li {
+  margin-bottom: 8px;
+  padding: 8px;
+  background-color: #fff;
+  border-radius: 3px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between; /* Align items and delete button at opposite ends */
+  align-items: center;
+}
+
+/* Style for delete button within agenda list item */
+.delete-button {
+  background-color: #dc3545; /* Red color for delete button */
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  padding: 4px 8px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.delete-button:hover {
+  background-color: #c82333; /* Darker red color on hover */
+}
+
