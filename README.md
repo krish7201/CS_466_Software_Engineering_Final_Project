@@ -109,9 +109,12 @@ Figure 15 Create Announcement (Instructor)
 ### Project documentation/artifacts
 
 - Problem statement
-- - The problem to be solved: (Kris)
+  - The problem to be solved: (Kris)
+    
     The widespread accessibility of the internet and quick internet speeds has meant that more people can access online content on demand. One specific use for this speed and accessibility has been online classes. Teachers could post their content online, especially if the content is otherwise difficult to find, for students to easily access.
-    There’s been a recent rise and offloading of students onto online platforms as opposed to in-person classes for the sake of accessibility and convenience, potentially also lesser cost. This has meant for the increasing need for easy-to-use centralized learning platforms. Given that learning platforms are a recent development in scholarly technology, they aren’t necessarily as streamlined as they could be. 
+    
+    There’s been a recent rise and offloading of students onto online platforms as opposed to in-person classes for the sake of accessibility and convenience, potentially also lesser cost. This has meant for the increasing need for easy-to-use centralized learning platforms. Given that learning platforms are a recent development in scholarly technology, they aren’t necessarily as streamlined as they could be.
+    
     Important information can be cryptic, inconsistent, and scattered when it comes to these online learning platforms. Having an even easier means of accessing resources related to academic planning and course related material would be beneficial for students.  
 
 
