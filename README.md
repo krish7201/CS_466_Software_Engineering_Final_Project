@@ -163,36 +163,47 @@ Figure 15 Create Announcement (Instructor)
 ### Use cases, scenario, user stories, etc.
 - Use Case
   - PostAssignment (Instructor) (Steeff)
+  
   <img src="https://github.com/user-attachments/assets/2398087b-bd2b-409f-a6c0-3e1ea51fb26f" height="50%" width="75%"></img>
   
   - SubmitAssignment (student) (Steeff)
+  
   <img src="https://github.com/user-attachments/assets/f0450aef-e7dc-4a49-b7d5-ac29b6a9b738" height="50%" width="75%"></img>
 
   - CheckGrade (student) (Mark)
+  
   <img src="https://github.com/user-attachments/assets/2ca0c6f6-f289-49d4-8023-5fa0967bf674" height="50%" width="75%"></img>
 
   - SubmitGrade(Instructor) (Mark)
+  
   <img src="https://github.com/user-attachments/assets/d01860e4-26e9-4b87-aae1-8c3b283a344e" height="50%" width="75%"></img>
 
   - UsePlanner (students and instructors) (Mark)
+  
   <img src="https://github.com/user-attachments/assets/8985a037-8454-437e-be19-f7c4e7a59e44" height="50%" width="75%"></img>
 
   - LaunchGradeCalculator (students) (David)
+  
   <img src="https://github.com/user-attachments/assets/37fa1261-2a61-42d4-b18d-9dd351a9f172" height="50%" width="75%"></img>
 
   - LaunchToDoList (students) (David)
+  
   <img src="https://github.com/user-attachments/assets/4ec33743-e2d1-4d3b-9440-42677c398efb" height="50%" width="75%"></img>
 
   - LaunchCoursePage (Instructors/Students) (David)
+  
   <img src="https://github.com/user-attachments/assets/e83b782c-6552-4467-af75-fe61491040ba" height="50%" width="75%"></img>
 
   - CreateCourse (Admin) -> EnrollInCourse (Admin) -> CSV file of people in course from eServices (Kris)
+  
   <img src="https://github.com/user-attachments/assets/4febda54-8bb5-42c3-bb1a-8b3ecc5b7160" height="50%" width="75%"></img>
 
   - CreateNewUser (Kris)
+  
   <img src="https://github.com/user-attachments/assets/a3524f66-265f-4cbc-b60e-828e66aba922" height="50%" width="75%"></img>
 
   - Login (Kris)
+  
   <img src="https://github.com/user-attachments/assets/5a2960b4-1524-43c9-999a-8b62268ffc15" height="50%" width="75%"></img>
 
 ### Analysis and Design
