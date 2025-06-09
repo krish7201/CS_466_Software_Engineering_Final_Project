@@ -208,12 +208,17 @@ Figure 15 Create Announcement (Instructor)
 
 ### Analysis and Design
   - Analysis models (UML diagrams)
+
   <img src="https://github.com/user-attachments/assets/cbcae519-1e66-40b6-8e31-ff36751bc647" height="50%" width="75%"></img>
 
   - Design models (UML diagrams)
+
   <img src="https://github.com/user-attachments/assets/3a32704f-5a43-40b8-95b9-cbe0f62f62e1" height="50%" width="75%"></img>
+  
   <img src="https://github.com/user-attachments/assets/62c411ff-254b-4d9e-8907-844100f54920" height="50%" width="75%"></img>
+  
   <img src="https://github.com/user-attachments/assets/5112be62-98d2-42dc-a242-fb2a131f8107" height="50%" width="75%"></img>
+  
   <img src="https://github.com/user-attachments/assets/571fde46-c8b7-4abd-b426-cf4834e5fba4" height="50%" width="75%"></img>
 
   - Design patterns: patterns used or plan to use in the next delivery
