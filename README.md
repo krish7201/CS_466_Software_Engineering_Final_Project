@@ -284,39 +284,46 @@ Figure 15 Create Announcement (Instructor)
   $cfg['Servers'][$i]['favorite'] = 'pma__favorite';
   
   Use the following roles to test the functionality of different things, these are all from the database:
-  Admins:
+  ##### Admins:
+  
    Leah Saldana (15848455) {
     Username: Foriz1971
     Password: ie6ahzohBee
    }
   
-  Students:
+  ##### Students:
+  
    //takes 4 classes
    Eddie Donovan (54875814) {
     Username: Weireaddes
     Password: Quub2ieM
    }
+   
    //takes 3 classes
    Martha Gobert (74655355) {
     Username: Sopichim
     Password: Sah2Teeth2
    }
   
-  Instructors:
+  ##### Instructors:
+  
    Molly Tarr (21900449) {
     Username: Nithe1969
     Password: uehav1Ei
    }
+   
    //teaches 1 class
    Jeanne Deniston (75305948) {
     Username: Muce1982
     Password: eish7iowuiB
    }
+   
    //teaches 1 class
    Michael Cancel (77716742) {
     Username: Caravered
     Password: FeebohV9
    }
+   
    //teaches 4 classes
    //has 4 announcements in Art III
    Tim Hutzler (91377380) {
