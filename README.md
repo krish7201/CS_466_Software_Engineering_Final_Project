@@ -45,7 +45,7 @@ Welcome to AcaStat, an educational platform for students to enroll and take clas
     
     o	Host/promote extra-curricular activities
     
-
+### Screenshots
 ![image](https://github.com/user-attachments/assets/c32f295a-32d7-4056-a9e2-5c0563815de4)
 ![image](https://github.com/user-attachments/assets/e71bd03c-820d-4c30-84c6-7cefc4e57e7b)
 ![image](https://github.com/user-attachments/assets/ff45e61d-8f51-4cba-ace9-4309e1834492)
@@ -56,3 +56,10 @@ Welcome to AcaStat, an educational platform for students to enroll and take clas
 ![image](https://github.com/user-attachments/assets/bfb8958d-4603-4219-9038-ffb679acb14d)
 ![image](https://github.com/user-attachments/assets/32b57d0f-2bc1-41fb-ba19-c306da898d4c)
 ![image](https://github.com/user-attachments/assets/fa5e9676-d64a-4650-88d2-0d40e769e50e)
+![image](https://github.com/user-attachments/assets/eb675ab4-ef87-4d18-95e4-a85c14de6d39)
+![image](https://github.com/user-attachments/assets/40c4644c-7de1-4d0b-a13c-1b42966d4ea7)
+![image](https://github.com/user-attachments/assets/b46094b2-9bd8-4344-8bad-503aae624f26)
+![image](https://github.com/user-attachments/assets/dd12c116-d180-4885-bd70-b8272adf583c)
+![image](https://github.com/user-attachments/assets/7eff5b96-51bd-4082-af5f-8b3050c22a50)
+
+
