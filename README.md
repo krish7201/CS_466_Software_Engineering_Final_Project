@@ -51,18 +51,60 @@ Welcome to AcaStat, an educational platform for students to enroll and take clas
 Figure 1 Login Screen (All Users)
 
 <img src="https://github.com/user-attachments/assets/e71bd03c-820d-4c30-84c6-7cefc4e57e7b" height="50%" width="75%"></img>
+
+Figure 2 Home Page (Admins)
+
 <img src="https://github.com/user-attachments/assets/ff45e61d-8f51-4cba-ace9-4309e1834492" height="50%" width="75%"></img>
+
+Figure 3 Create User (Admin)
+
 <img src="https://github.com/user-attachments/assets/084bdf2b-bd0e-4058-ba57-a7e637f11894" height="50%" width="75%"></img>
+
+Figure 4 Create Course (Admin)
+
 <img src="https://github.com/user-attachments/assets/8b616fa2-a1f4-4dd7-a740-46665ff25634" height="50%" width="75%"></img>
+
+Figure 5 Home Page (Students/Instructors) [Note: Students and Instructors have same access to tools]
+
 <img src="https://github.com/user-attachments/assets/c96efea0-1147-4f6c-9445-b823d65029a0" height="50%" width="75%"></img>
+
+Figure 6 Course Catalogue (All Users)
+
 <img src="https://github.com/user-attachments/assets/35be909d-c5e1-4155-92f7-8978345767ec" height="50%" width="75%"></img>
+
+Figure 7 Grade Calculator (All Users)
+
 <img src="https://github.com/user-attachments/assets/bfb8958d-4603-4219-9038-ffb679acb14d" height="50%" width="75%"></img>
+
+Figure 8 Planner (All Users)
+
 <img src="https://github.com/user-attachments/assets/32b57d0f-2bc1-41fb-ba19-c306da898d4c" height="50%" width="75%"></img>
+
+Figure 9 Course Page (Instructors) [Varies by Course and Create Announcement only appears on courses taught by logged in instructor]
+
 <img src="https://github.com/user-attachments/assets/fa5e9676-d64a-4650-88d2-0d40e769e50e" height="50%" width="75%"></img>
+
+Figure 10 Course Page (Students) [Varies by Course]
+
 <img src="https://github.com/user-attachments/assets/eb675ab4-ef87-4d18-95e4-a85c14de6d39" height="50%" width="75%"></img>
+
+Figure 11 Material (Students)
+
 <img src="https://github.com/user-attachments/assets/40c4644c-7de1-4d0b-a13c-1b42966d4ea7" height="50%" width="75%"></img>
+
+Figure 12 Assignments (Students)
+
 <img src="https://github.com/user-attachments/assets/b46094b2-9bd8-4344-8bad-503aae624f26" height="50%" width="75%"></img>
+
+Figure 13 Assignment (Instructor)
+
 <img src="https://github.com/user-attachments/assets/dd12c116-d180-4885-bd70-b8272adf583c" height="50%" width="75%"></img>
+
+Figure 14 Submission (Students)
+
 <img src="https://github.com/user-attachments/assets/7eff5b96-51bd-4082-af5f-8b3050c22a50" height="50%" width="75%"></img>
+
+Figure 15 Create Announcement (Instructor)
+
 
 
