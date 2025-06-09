@@ -23,12 +23,9 @@ Welcome to AcaStat, an educational platform for students to enroll and take clas
     
     o	Simplifies and centralizes class material
     
-      	Reduces course page tabs
-    
-      	Better calendar for managing assignments/due dates/planning
-    
-      	Makes concurrent enrollment enmeshed
-    
+      - Reduces course page tabs
+      - Better calendar for managing assignments/due dates/planning
+      - Makes concurrent enrollment enmeshed
     o	Allows dropbox functionality for submitting assignments
     
     o	Allows for video calls for class time
