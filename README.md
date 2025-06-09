@@ -117,4 +117,33 @@ Figure 15 Create Announcement (Instructor)
     
     Important information can be cryptic, inconsistent, and scattered when it comes to these online learning platforms. Having an even easier means of accessing resources related to academic planning and course related material would be beneficial for students.  
 
+  - Description of current situations: (Mark)
+
+    Popular educational platforms, although offering a centralized area to access course resources, allow for inconsistency with how users of the platform (dominantly instructors) format and display information, creating a noncohesive and messy platform.
+
+    Along with this, many additional features or online tools are offered by existing platforms but are not fully developed to be useful or competitive with external tools.
+
+- System architecture description, including the architectural style
+  - Target Environment: (Steeff)
+
+    Our architectural style is model view controller, the one Apple uses
+    
+    It’s intended to be multi-system via a web app
+
+    - The environment in which the delivered system has to
+    perform a specified set of system tests: 
+      o	User-Focused Testing:
+    - UI Response Times
+    - Commands perform in less than 2 milliseconds in high traffic.
+    - Security Vulnerabilities
+    - Firewalls and intrusion detection.
+    - Data Accuracy
+    - Measuring effectiveness of learning strategies and tools.
+      o	Software Compatibility:
+    - Chrome, Firefox, Safari, Opera, Edge
+      o	System Testing:
+    - Testing on devices such as desktops, laptops, and mobile phones.
+    - Stress testing for a surge in user activity such as exams.
+
+
 
