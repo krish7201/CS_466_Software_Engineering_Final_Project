@@ -1,5 +1,4 @@
-Product description, a two to three pages “marketing” material, including
-### Introduction
+### Introduction (fake Product description, a two to three pages “marketing” material, including)
 Welcome to AcaStat, an educational platform for students to enroll and take classes taught by instructors of varying disciplines. This app features announcements, course catalogue and registration system, grade calculation, planner system, assignment system, and more. Once you’re added by one of our admins, you’re successfully able to use the system. Enroll in one of our offered courses and experience the clean and seamless quality our learning platform has to offer. Instructors of our platform enjoy the ability to create announcements and assignments for their classes. Admins of our system register new users and courses.
 
 ### Features (Bulleted items of descriptions):
